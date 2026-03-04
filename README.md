@@ -1,6 +1,6 @@
 ---
 title: Image Triangulator
-emoji: 🦀
+emoji: 🎨
 colorFrom: pink
 colorTo: gray
 sdk: gradio
@@ -44,10 +44,6 @@ To run this project on your own machine:
 
 1. **Clone the repository:**
 
-
-   You can find the source here: [image-triangulator](https://huggingface.co/spaces/harshg23/image-triangulator)
-
-
    ```bash
    git clone https://huggingface.co/spaces/harshg23/image-triangulator
    cd image-triangulator
@@ -59,3 +55,4 @@ To run this project on your own machine:
 3. **Launch the app:**
    ```bash
    python app.py
+
